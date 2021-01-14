@@ -1,0 +1,11 @@
+#include<iostream>
+using namespace std;
+
+int main()
+{
+    #ifndef ONLINE_JUDGE
+           freopen("input.txt","r",stdin);
+           freopen("output.txt","w",stdout);
+    #endif
+https://www.pepcoding.com/resources/online-java-foundation/hashmap-and-heap/hfc-official/ojquestion
+1-8@1
